@@ -225,7 +225,7 @@
                 <span class="copyright-text">
                     &copy; 2016</span>
                 <span class="sep"> | </span>
-                disain                 <a href="http://m-group.pp.ua/" rel="designer">m-group</a>
+                Design                 <a href="http://m-group.pp.ua/" rel="designer">m-group</a>
 
             </div>
 
@@ -236,22 +236,16 @@
 <a href="#masthead" id="scroll-up"><i class="fa fa-arrow-up"></i></a>
 </div><!-- #page -->
 
-<script type='text/javascript' src='http://ins.loc/wp-content/plugins/accesspress-instagram-feed/js/lightbox.js?ver=2.8.1'></script>
-<script type='text/javascript' src='http://ins.loc/wp-content/plugins/accesspress-instagram-feed/js/isotope.pkgd.min.js?ver=2.2.0'></script>
-<script type='text/javascript'>
-    /* <![CDATA[ */
-    var frontend_ajax_object = {"ajax_url":"http:\/\/ins.loc\/wp-admin\/admin-ajax.php","ajax_nonce":"987f2c537a"};
-    /* ]]> */
-</script>
-<script type='text/javascript' src='http://ins.loc/wp-content/plugins/accesspress-social-share/js/frontend.js?ver=4.0.7'></script>
-<script type='text/javascript' src='http://ins.loc/wp-content/themes/the-monday/js/navigation.js?ver=20120206'></script>
-<script type='text/javascript' src='http://ins.loc/wp-content/themes/the-monday/js/skip-link-focus-fix.js?ver=20130115'></script>
-<script type='text/javascript' src='http://ins.loc/wp-content/themes/the-monday/js/sticky/jquery.sticky.js?ver=20150309'></script>
-<script type='text/javascript' src='http://ins.loc/wp-content/themes/the-monday/js/sticky/sticky-setting.js?ver=1.1.4'></script>
-<script type='text/javascript' src='http://ins.loc/wp-content/themes/the-monday/js/singlepagenav/jquery.nav.js?ver=2.2.0'></script>
-<script type='text/javascript' src='http://ins.loc/wp-content/themes/the-monday/js/singlepagenav/jquery.scrollTo.js?ver=2.1.1'></script>
-<script type='text/javascript' src='http://ins.loc/wp-content/themes/the-monday/js/singlepagenav/nav-settings.js?ver=1.1.4'></script>
-<script type='text/javascript' src='http://ins.loc/wp-includes/js/wp-embed.min.js?ver=4.4.2'></script>
+
+
+<script type='text/javascript' src='js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='js/sticky/jquery.sticky.js?ver=20150309'></script>
+<script type='text/javascript' src='js/sticky/sticky-setting.js?ver=1.1.4'></script>
+<script type='text/javascript' src='js/singlepagenav/jquery.nav.js?ver=2.2.0'></script>
+<script type='text/javascript' src='js/singlepagenav/jquery.scrollTo.js?ver=2.1.1'></script>
+<script type='text/javascript' src='js/singlepagenav/nav-settings.js?ver=1.1.4'></script>
+<script type='text/javascript' src='js/wp-embed.min.js?ver=4.4.2'></script>
 
 </body>
 </html>
